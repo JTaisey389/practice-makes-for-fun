@@ -1,0 +1,33 @@
+{
+  "name": "practice-makes-for-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTaisey389/practice-makes-for-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTaisey389/practice-makes-for-fun/issues"
+  },
+  "homepage": "https://github.com/JTaisey389/practice-makes-for-fun#readme",
+  "dependencies": {
+    "auth0": "^2.36.1",
+    "dom": "^0.0.3",
+    "node": "^16.6.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "redux": "^4.1.1",
+    "redux-devtools-extension": "^2.13.9",
+    "superagent": "^5.3.1",
+    "thunk": "^0.0.1"
+  }
+}
